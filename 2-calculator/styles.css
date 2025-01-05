@@ -1,0 +1,87 @@
+html {
+  font-size: 67.5%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  background-color: #2b1428;
+  border-radius: 60px;
+}
+
+.calculator {
+  border: 1px solid #ccc;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-top: 10px;
+  width: 400px;
+  background-color: rgb(87, 35, 87);
+  user-select: none;
+  box-shadow: 0 0.7px rgb(243, 241, 241);
+}
+.calculator-screen {
+  overflow: scroll;
+  border-radius: 15px;
+  width: 90%;
+  border: 1px solid rgb(221, 43, 206);
+  height: 100px;
+  margin: 10px auto;
+  /* border: none; */
+  background-color: #000000;
+  color: #fff;
+  text-align: right;
+  padding-right: 20px;
+  padding-left: 10px;
+  font-size: 70px;
+  box-shadow: 0 0.5px rgb(243, 241, 241); /* how box shadow works */
+  user-select: none; /* what it means? */
+  background-color: #dc6eeb2f;
+}
+.calculator-keys {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  padding: 20px;
+}
+button {
+  height: 60px;
+  font-size: 2rem;
+  cursor: pointer;
+  background-color: rgba(5, 5, 5, 0.315);
+  background-color: transparent;
+  color: rgba(250, 250, 250, 0.83);
+  border: 1px solid rgb(105, 18, 86);
+  border-radius: 12px;
+  text-shadow: 0 2px rgba(250, 250, 250, 0.288);
+  box-shadow: 0 5px rgb(221, 43, 206);
+  user-select: none;
+}
+button:active {
+  transform: translate(3px);
+  box-shadow: 0 5px rgb(96, 10, 117);
+}
+button:hover {
+  background-color: #f195f1;
+  color: black;
+}
+.operator,
+.math {
+  color: whitesmoke;
+  background-color: rgb(221, 43, 206);
+  border-color: rgb(105, 18, 86);
+}
+
+.operator:hover,
+.math:hover {
+  background-color: rgb(240, 208, 235);
+}
+
+.equal-sign {
+  grid-area: 6/3/5/5;
+}
