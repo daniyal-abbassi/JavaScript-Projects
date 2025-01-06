@@ -12,3 +12,7 @@ These Are JavaScript Projects I have done.
 3-Calculator V-2
 
 ![Screenshot from 2025-01-05 03-17-19](https://github.com/user-attachments/assets/152e3f9a-b55f-4ad3-8c4d-f7656e74e7c7)
+
+4-Accordian
+
+![Screenshot from 2025-01-06 04-51-02](https://github.com/user-attachments/assets/e4713c06-1301-4b07-8cf6-104afee5da8d)
