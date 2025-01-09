@@ -21,3 +21,7 @@ These Are JavaScript Projects I have done.
 5-Tree-View
 
 ![Screenshot from 2025-01-08 03-53-10](https://github.com/user-attachments/assets/2d21b5c6-0c34-48b3-90dc-49c153e43efb)
+
+6-Star Rating 
+
+![Screenshot from 2025-01-10 01-28-36](https://github.com/user-attachments/assets/b2eb7f23-9303-4d82-84cf-bd4dd5af1f26)
