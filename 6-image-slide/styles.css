@@ -1,0 +1,60 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(10, 8, 41);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.295);
+    padding: 10px 0 60px 0;
+    height: 80vh;
+    max-height: 90vh;
+}
+#descriptions {
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.6rem;
+    margin-right: 150px;
+    width: 400px;
+    
+
+}
+.image {
+    width: 450px;   
+    border-radius: 10px;
+    height: 68vh;
+    max-height: 74vh;
+}
+.arrow {
+    cursor: pointer;
+    /* position: absolute; */
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: whitesmoke;
+    width: 100px;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    font-size: 5rem;
+}
+.arrow:hover {
+    background-color: aqua;
+    color: white;
+}
+.arrow:active {
+    background-color: rgb(32, 116, 116);
+    color: white;
+}
+.right-arrow {
+    margin-left: 40px;
+}
