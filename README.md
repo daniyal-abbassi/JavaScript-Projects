@@ -25,3 +25,8 @@ These Are JavaScript Projects I have done.
 6-Star Rating 
 
 ![Screenshot from 2025-01-10 01-28-36](https://github.com/user-attachments/assets/b2eb7f23-9303-4d82-84cf-bd4dd5af1f26)
+
+7-simple Image Slider V-1
+
+![Screenshot from 2025-01-11 01-18-02](https://github.com/user-attachments/assets/8798f216-5afc-4840-8aef-cad765c75b47)
+
