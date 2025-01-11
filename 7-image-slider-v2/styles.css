@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(23, 23, 24, 0.795);
+}
+
+
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.arrow {
+    cursor: pointer;
+    font-size: 3rem;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 50%;
+    margin: 40px;
+}
+#image {
+    border: none;
+    padding: 30px;
+    width: 70vw;
+    height: 70vh;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.img {
+    width: 880px;
+    height: 480px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+#slider {
+    position: absolute;
+    width: 700px;
+    height: 150px;
+    top: 65%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.slider-item {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.404);
+}
+.active {
+    background-color: rgba(201, 201, 201, 0.479);
+}
