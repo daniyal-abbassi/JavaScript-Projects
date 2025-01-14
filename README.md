@@ -38,4 +38,7 @@ These Are JavaScript Projects I have done.
 ![Screenshot from 2025-01-11 06-16-52](https://github.com/user-attachments/assets/89f10e16-46af-4104-94f5-49125c38870a)
 
 
+<h2>9-Auto Play-Image Slider</h2>
 
+
+![image-slider-autoplay-site](https://github.com/user-attachments/assets/d4610978-d1dd-4df0-a619-5a9fc5619eb0)
