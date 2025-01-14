@@ -1,7 +1,9 @@
 <h3>Hello World;</h3>
 <h2>These Are JavaScript Projects I have done.</h2>
-
- <h2>1-Color-Flipper</h2>
+<ol>
+ <li href="#one">1-Color Flipper</li>
+</ol>
+ <h2 id="one">1-Color-Flipper</h2>
  
  ![Screenshot from 2025-01-05 03-43-29](https://github.com/user-attachments/assets/542de11f-28fb-4c7c-b67b-a076732509c4)
 
