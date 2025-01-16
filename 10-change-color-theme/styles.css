@@ -1,0 +1,49 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    background-color: var(--background);
+    transition: all .3s ease-in-out;
+}
+:root {
+    --background: #fff;
+    --text-primary: #000;
+    --btn-bg: #000;
+    --btn-text: #fff; 
+}
+[data-theme = "dark"] {
+    --background: #000;
+    --text-primary: #fff;
+    --btn-bg: #fff;
+    --btn-text: #000; 
+}
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    color: var(--text-primary);
+    margin-right: 40px;
+    font-size: 4rem;
+    transition: all .4s ease-in-out;
+    user-select: none;
+}
+.text:hover {
+    transform: translateY(20px);
+}
+.change-theme-btn {
+    color: var(--btn-text);
+    background-color: var(--btn-bg);
+    font-size: 3rem;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    transition: all .4s ease-in-out;
+}
+.change-theme-btn:hover {
+    transform: translateY(-10px);
+}
