@@ -1,0 +1,63 @@
+.loading {
+    display: none;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4rem;
+    
+}
+.container {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px 35px;
+    flex-direction: row;
+    justify-content: center;
+    height: auto;
+    width: 100%;
+    align-items: center;
+}
+.product {
+    background-color: rgba(220, 226, 225, 0.5);
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    border: 0.5px solid black;
+    border-radius: 18px;
+}
+.product-img {
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 100px;
+    height: 100px;
+
+}
+.product-name {
+    display: inline-block;
+    background-color: rgb(154, 172, 154);
+    padding: 5px 0;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 40px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.4rem;
+}
+.load-more {
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-size: 2.5rem;
+    padding: 20px 5px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.disactive {
+    cursor:no-drop;
+    background-color: red;
+
+}
