@@ -44,3 +44,11 @@
 
 
 ![image-slider-autoplay-site](https://github.com/user-attachments/assets/d4610978-d1dd-4df0-a619-5a9fc5619eb0)
+
+
+<h2>10-Load More Data</h2>
+
+
+![loading-data-app](https://github.com/user-attachments/assets/37fe4125-7845-48f0-bb97-97a11eb698ae)
+
+
