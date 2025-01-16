@@ -52,3 +52,8 @@
 ![loading-data-app](https://github.com/user-attachments/assets/37fe4125-7845-48f0-bb97-97a11eb698ae)
 
 
+<h2>Change Color Theme</h2>
+
+
+
+![change-theme-app](https://github.com/user-attachments/assets/11a046d1-35b0-4aca-8420-d65d8be03e32)
