@@ -64,3 +64,9 @@
 
 ![fight-dragon-app](https://github.com/user-attachments/assets/703b45f7-a1a3-45e6-b375-679cecaf2512)
 
+
+
+<h2>13-Calorie Counter</h2>
+
+
+![Screenshot from 2025-01-20 19-25-45](https://github.com/user-attachments/assets/f37db544-9517-4ff1-a387-3caf2a2b96fb)
