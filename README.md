@@ -59,14 +59,20 @@
 
 
 
-<h2>12-Role Playing Game</h2>
+<h2>12-Role Playing Game (Free Code Camp re-sample)</h2>
 
 
 ![fight-dragon-app](https://github.com/user-attachments/assets/703b45f7-a1a3-45e6-b375-679cecaf2512)
 
 
 
-<h2>13-Calorie Counter</h2>
+<h2>13-Calorie Counter (Free Code Camp re-sample)</h2>
 
 
 ![Screenshot from 2025-01-20 19-25-45](https://github.com/user-attachments/assets/f37db544-9517-4ff1-a387-3caf2a2b96fb)
+
+
+<h2>14-Music Player(Free Code Camp re-sample)</h2>
+
+
+![Screenshot from 2025-01-22 02-17-33](https://github.com/user-attachments/assets/6fbd8744-1f78-4c9d-814c-3e85b8214efa)
