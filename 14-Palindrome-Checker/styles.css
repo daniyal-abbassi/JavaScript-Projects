@@ -1,0 +1,51 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+}
+.container {
+    width: 800px;
+    padding: 50px 50px 50px 50px;
+    margin: 0 auto;
+    margin-top: 200px;
+    border: 2px solid white;
+    border-radius: 30px;
+    box-shadow: 5px 3px wheat;
+}
+.input-box {
+    margin-top: 100px;
+}
+#text-input, .container, #check-btn {
+    font-size: 2rem;
+}
+#text-input, #check-btn {
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+#check-btn {
+    border: none;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+#text-input::placeholder {
+    color: blue;
+    text-shadow: 0.2px 0.3px black;
+}
+.result-box {
+    min-width: 500px;
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 70px;
+}
+#result {
+    font-size: 2rem;
+}
+.true {
+    color: green;
+}
+.false {
+    color: red;
+}
