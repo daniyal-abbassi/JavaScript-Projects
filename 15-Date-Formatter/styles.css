@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title-container {
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+
+}
+.title-container h1 {
+    display: inline;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.title-container svg {
+    display: inline;
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.divider {
+    width: 160px;
+    height: 9px;
+    background-color: #f1be32;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.dropdown-container {
+    width: 60%;
+    margin: 100px auto;
+    position: relative;
+    text-align: center;
+}
+select {
+    display: block;
+    margin: 2px auto 0;
+    height: 50px;
+    width: 100%;
+    font-size: 1.4rem;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    appearance: none; 
+    padding: 10px;
+    padding-right: 40px;
+    -webkit-appearance: none;  /* removes default styles of the browser */
+    -moz-appearance: none;  /* it also for removing default style(fire fox) */
+    border-radius: 10px;
+    transition: colo 0.3s ease, background-color 0.3s ease, border-bottom-color 0.3s ease;
+}
+.select-icon {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    width: 30px;
+    height: 40px;
+    pointer-events: none;   /* give access to beneath layers of pointer */
+    padding-left: 5px;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+.select-icon svg.icon {
+    transition: fill 0.3s ease;
+    fill: black;
+}
+#current-date {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    transition: opacity 0.6s ease;
+    transform: translateY(0);
+}
+.fade-out {
+    opacity: 0;
+    transform: translateY(-20px);
+}
+.fade-in {
+    opacity: 1;
+    transform: translateY(0);
+}
