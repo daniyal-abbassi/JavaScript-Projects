@@ -84,3 +84,12 @@
 
 ![Screenshot from 2025-01-22 22-18-54](https://github.com/user-attachments/assets/fd843541-f84d-4b54-b302-a45c776bd67a)
 
+
+
+<h2>16-Date Formatter(Free Code Camp re-sample)</h2>
+- i also:
+change the theme'
+add animation to fade-in and fade-out the text;
+
+
+![Screenshot from 2025-01-23 18-46-00](https://github.com/user-attachments/assets/2156c05d-78cd-42a8-8c2c-58cb19563c57)
