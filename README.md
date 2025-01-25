@@ -99,5 +99,11 @@ add animation to fade-in and fade-out the text;
 
 
 
-
 ![Screenshot from 2025-01-24 14-13-31](https://github.com/user-attachments/assets/2717f6fc-7356-405c-8805-132b03e84b1c)
+
+
+<h2>18-Todo List(Free Code Camp practice)</h2>
+
+
+
+![Screenshot from 2025-01-25 22-29-41](https://github.com/user-attachments/assets/b4c8b021-dc44-40fd-b4bf-529b290117f7)
