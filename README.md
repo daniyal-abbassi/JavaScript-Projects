@@ -107,3 +107,10 @@ add animation to fade-in and fade-out the text;
 
 
 ![Screenshot from 2025-01-25 22-29-41](https://github.com/user-attachments/assets/b4c8b021-dc44-40fd-b4bf-529b290117f7)
+
+
+<h2>19-Decimal to Binary Converter(Free Code Camp Sample)</h2>
+
+
+
+![Screenshot from 2025-02-08 19-00-13](https://github.com/user-attachments/assets/868e9528-ca3c-42ec-8ea1-5cff0a0a1fa9)
