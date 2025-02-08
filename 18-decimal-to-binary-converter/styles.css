@@ -1,0 +1,79 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-family:'Courier New', Courier, monospace;
+    background-color: #000;
+    color: white;
+    padding: 4px 10px;
+}
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+h2 {
+    margin: 20px 0;
+    text-align: center;
+}
+.input-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: clamp(320px, 50vw, 460px);
+    margin: 10px auto;
+}
+.input-container label {
+    word-spacing: -6px;
+    white-space: nowrap;
+}
+.number-input {
+    width: 100%;
+    padding: 0.3rem;
+}
+.convert-btn {
+    width: 100%;
+    height: 2.4rem;
+    background-color: #f1be32;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.output-container {
+    width: clamp(320px,50vw,460px);
+    margin-inline: auto;
+}
+#result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    text-align: center;
+    min-height: 80px;
+    padding: 15px;
+    border: 2px solid #f1be32;
+    margin-block-start: 20px;
+}
+#animation-container {
+    margin-block-end: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px dashed #f1be32;
+    padding: 1rem;
+    min-height: 40vh;
+    gap: 1rem;
+}
